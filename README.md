@@ -25,46 +25,46 @@ Automatizar a análise de processos de licitações, garantindo compliance total
 ```
 SIACP/
 
-00-CONSTITUICAO.md
-01-METODOLOGIA.md
-02-FLUXO.md
-03-REGRAS.md
-04-RESTITUICAO.md
-05-CERTIFICACAO.md
-├── README.md                           # Este arquivo
-├── GUIA-RAPIDO.md                      # Guia de início rápido
-├── CHANGELOG.md                        # Histórico de versões
-│
-├── prompts/                            # Prompts otimizados
-│   ├── README-PROMPTS.md              # Instruções de uso
-│   ├── 01-validacao-basica.md         # Validações obrigatórias Lei 14.133
-│   ├── 02-checklist-compliance.md     # Checklist de conformidade
-│   ├── 03-analise-conformidade.md     # Análise detalhada
-│   └── 04-gerar-relatorio.md          # Geração de relatório final
-│
-├── templates/                          # Templates estruturados
-│   ├── template-checklist.json         # Checklist em JSON
-│   ├── template-analise.json           # Resposta de análise
-│   ├── template-relatorio.md           # Relatório formatado
-│   └── template-resposta-fixa.txt      # Formato fixo (não alterar)
-│
-├── docs/                               # Documentação legal
-│   ├── Lei-14133-2021.md              # Lei de Licitações resumida
-│   ├── Decretos-SP.md                 # Decretos complementares SP
-│   ├── validacoes-criticas.md         # Lista de validações críticas
-│   └── glossario.md                   # Termos e definições
-│
-├── exemplos/                           # Exemplos práticos
-│   ├── exemplo-01-analise-completa.md # Exemplo de análise
-│   ├── exemplo-02-relatorio.md        # Exemplo de relatório
-│   └── exemplo-03-checklist.json      # Exemplo de checklist
-│
-└── recursos/                           # Recursos adicionais
-    ├── dicas-uso-chatgpt.md           # Como usar com ChatGPT
-    └── troubleshooting.md             # Solução de problemas
-```
+README.md
 
----
+SIACP-CORE/
+    00-CONSTITUICAO.md
+    01-METODOLOGIA.md
+    02-FLUXO.md
+    03-REGRAS.md
+    04-RESTITUICAO.md
+    05-CERTIFICACAO.md
+
+SIACP-BASE/
+    Lei14133.md
+    Decretos-SP.md
+    Jurisprudencia-TCU.md
+    Jurisprudencia-TCESP.md
+    Pareceres-CJPM.md
+    PGE-SP.md
+    Compras-SP.md
+    CADTERC.md
+
+SIACP-MISSOES/
+    01-Bens-Comuns.md
+    02-Servicos-Comuns.md
+    03-Obras-Engenharia.md
+    04-Outsourcing.md
+    05-Contratacao-Direta.md
+    06-SRP.md
+    07-Credenciamento.md
+    08-Gestao-Contratual.md
+    09-Planejamento.md
+
+SIACP-TEMPLATES/
+    template-checklist.json
+    template-analise.json
+    template-restituicao.md
+    template-certificacao.md
+
+SIACP-EXEMPLOS/
+
+SIACP-CHANGELOG/
 
 ## 🚀 Como Usar
 

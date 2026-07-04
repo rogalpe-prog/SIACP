@@ -24,6 +24,13 @@ Automatizar a análise de processos de licitações, garantindo compliance total
 
 ```
 SIACP/
+
+00-CONSTITUICAO.md
+01-METODOLOGIA.md
+02-FLUXO.md
+03-REGRAS.md
+04-RESTITUICAO.md
+05-CERTIFICACAO.md
 ├── README.md                           # Este arquivo
 ├── GUIA-RAPIDO.md                      # Guia de início rápido
 ├── CHANGELOG.md                        # Histórico de versões

@@ -1,0 +1,340 @@
+{
+  "checklist_compliance": {
+    "metadata": {
+      "versao": "1.0",
+      "data_analise": "2026-07-12",
+      "responsavel": "ChatGPT + Auditor",
+      "processo_id": "[PREENCHIMENTO OBRIGATÓRIO]",
+      "entidade": "[PREENCHIMENTO OBRIGATÓRIO]",
+      "objeto": "[PREENCHIMENTO OBRIGATÓRIO]"
+    },
+    "resumo_executivo": {
+      "status_geral": "[CONFORME / NÃO CONFORME / PARCIALMENTE CONFORME]",
+      "total_itens": 0,
+      "conformes": 0,
+      "nao_conformes": 0,
+      "pendentes": 0,
+      "percentual_conformidade": 0,
+      "observacoes": "[LISTAR PROBLEMAS CRÍTICOS]"
+    },
+    "secoes": {
+      "documentacao": {
+        "titulo": "1. DOCUMENTAÇÃO OBRIGATÓRIA",
+        "itens": [
+          {
+            "id": "DOC001",
+            "item": "Edital publicado e acessível",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 26",
+            "criticidade": "CRÍTICA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "DOC002",
+            "item": "Termo de Referência ou Projeto Básico",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 6, 18",
+            "criticidade": "CRÍTICA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "DOC003",
+            "item": "Parecer de adequação orçamentária",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 26",
+            "criticidade": "CRÍTICA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "DOC004",
+            "item": "Estimativa de preços realista",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 18",
+            "criticidade": "ALTA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "DOC005",
+            "item": "Análise de riscos",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 6",
+            "criticidade": "ALTA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "DOC006",
+            "item": "Justificativa de modalidade",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 6, 75, 76",
+            "criticidade": "CRÍTICA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          }
+        ]
+      },
+      "prazos": {
+        "titulo": "2. PRAZOS LEGAIS",
+        "itens": [
+          {
+            "id": "PRAZ001",
+            "item": "Prazo mínimo de 8 dias úteis atendido",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 26",
+            "criticidade": "CRÍTICA",
+            "data_publicacao": "[PREENCHER]",
+            "data_abertura": "[PREENCHER]",
+            "dias_uteis_calculados": 0,
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "PRAZ002",
+            "item": "Prazo para apresentação de propostas adequado",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 26",
+            "criticidade": "CRÍTICA",
+            "prazo_dias": 0,
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "PRAZ003",
+            "item": "Prazos de execução especificados",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 18",
+            "criticidade": "ALTA",
+            "prazo_proposto": "[PREENCHER]",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          }
+        ]
+      },
+      "publicidade": {
+        "titulo": "3. PUBLICIDADE E TRANSPARÊNCIA",
+        "itens": [
+          {
+            "id": "PUB001",
+            "item": "Publicado no portal da entidade",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 32",
+            "criticidade": "CRÍTICA",
+            "url_portal": "[PREENCHER]",
+            "data_publicacao": "[PREENCHER]",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "PUB002",
+            "item": "Publicado em plataforma de contratações",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 32",
+            "criticidade": "CRÍTICA",
+            "plataforma": "[PREENCHER]",
+            "url_plataforma": "[PREENCHER]",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "PUB003",
+            "item": "Informações de acesso público e irrestrito",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 32",
+            "criticidade": "ALTA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          }
+        ]
+      },
+      "modalidade": {
+        "titulo": "4. MODALIDADE E VALOR",
+        "itens": [
+          {
+            "id": "MOD001",
+            "item": "Modalidade compatível com valor",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 6",
+            "criticidade": "CRÍTICA",
+            "modalidade_escolhida": "[PREENCHER]",
+            "valor_estimado": 0,
+            "limites_legais": "[DESCREVER]",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "MOD002",
+            "item": "Justificativa de dispensa/inexigibilidade",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE/N/A]",
+            "artigo": "Lei 14.133, Art. 75-77",
+            "criticidade": "CRÍTICA",
+            "aplicavel": false,
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "MOD003",
+            "item": "Fragmentação artificial evitada",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 6",
+            "criticidade": "ALTA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          }
+        ]
+      },
+      "conflitos": {
+        "titulo": "5. CONFLITO DE INTERESSES",
+        "itens": [
+          {
+            "id": "CONF001",
+            "item": "Nenhum agente público da entidade participa",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 96",
+            "criticidade": "CRÍTICA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "CONF002",
+            "item": "Nenhum parente (até 3º grau) de agente público",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 96",
+            "criticidade": "CRÍTICA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "CONF003",
+            "item": "Nenhuma empresa sancionada (CNRFP)",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 96",
+            "criticidade": "CRÍTICA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          }
+        ]
+      },
+      "edital": {
+        "titulo": "6. QUALIDADE DO EDITAL",
+        "itens": [
+          {
+            "id": "EDIT001",
+            "item": "Objeto claramente descrito",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 18",
+            "criticidade": "ALTA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "EDIT002",
+            "item": "Especificações técnicas adequadas",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 18",
+            "criticidade": "ALTA",
+            "restringem_participacao": false,
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "EDIT003",
+            "item": "Critério de julgamento definido",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 31",
+            "criticidade": "CRÍTICA",
+            "criterio": "[PREENCHER]",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "EDIT004",
+            "item": "Condições de pagamento claras",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 18",
+            "criticidade": "ALTA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "EDIT005",
+            "item": "Penalidades especificadas",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 18",
+            "criticidade": "ALTA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          }
+        ]
+      },
+      "julgamento": {
+        "titulo": "7. JULGAMENTO E TRANSPARÊNCIA",
+        "itens": [
+          {
+            "id": "JUL001",
+            "item": "Critério de julgamento aplicado corretamente",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 31",
+            "criticidade": "CRÍTICA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "JUL002",
+            "item": "Pontuação é objetiva e transparente",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 31",
+            "criticidade": "ALTA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "JUL003",
+            "item": "Ata de julgamento existe e está clara",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 31",
+            "criticidade": "ALTA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          },
+          {
+            "id": "JUL004",
+            "item": "Resultado foi publicado",
+            "status": "[CONFORME/NÃO CONFORME/PENDENTE]",
+            "artigo": "Lei 14.133, Art. 32",
+            "criticidade": "ALTA",
+            "justificativa": "[PREENCHER]",
+            "evidencia": "[LISTAR EVIDÊNCIA]"
+          }
+        ]
+      }
+    },
+    "problemas_encontrados": [
+      {
+        "id": "PROB001",
+        "descricao": "[PREENCHER]",
+        "artigo": "[PREENCHER]",
+        "severidade": "[CRÍTICA/GRAVE/MÉDIA/BAIXA]",
+        "recomendacao": "[PREENCHER]"
+      }
+    ],
+    "recomendacoes": [
+      {
+        "id": "REC001",
+        "tipo": "[CORRECAO/MELHORIA/INFORMACAO]",
+        "descricao": "[PREENCHER]",
+        "prazo": "[IMEDIATO/CURTO/MÉDIO/LONGO]",
+        "responsavel": "[PREENCHER]"
+      }
+    ],
+    "conclusao": {
+      "parecer_final": "[CONFORME/NÃO CONFORME/PARCIALMENTE CONFORME]",
+      "resumo": "[PREENCHER]",
+      "proximo_passo": "[PREENCHER]",
+      "data_proxima_auditoria": "[PREENCHER]"
+    }
+  }
+}
